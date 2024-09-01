@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "cb6a7f2c53d267ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20af9b9bfdb162a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728d05a8de5afe62",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "ef712dbf23f00f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81625f94731ffcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liste Logiciel-Application.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "463cac8782f9c851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3c54e3721e94798",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8820d650ddd374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de41beab6192170e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05209bdb9ce97c02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ff6875ee6f9a91c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01035eb21617f46b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa16b57e4f3a9601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d568c71a0c3e726",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1566cb0441b6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9159d0e84d0fb500",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "063155f1ccc918d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git.md"
+              }
+            }
+          },
+          {
+            "id": "60324903184498c2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "publish:Publier les modifications": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "463cac8782f9c851",
+  "lastOpenFiles": [
+    "Liste Logiciel-Application.md",
+    "git.md",
+    "LA.md",
+    "05-Zettelkasten/Statistique R.md",
+    "LA - PLSQL.md",
+    "OU - Oracle.md",
+    "LA - Transact-SQL.md",
+    "OU - SQL SERVER.md",
+    "03-Domaine de connaissance/MOC - LES OUTILS - LANGAGES.md",
+    "00-Index/INDEX - DATA.md",
+    "01-Inbox/PL SQL - Un langage puissant pour la gestion des bases de données Oracle.md",
+    "PL.md",
+    "03-Domaine de connaissance/MOC - LA GESTION DE LA DONNEE.md",
+    "05-Zettelkasten/Transact-SQL - La base du requêtage.md",
+    "00-Index/INDEX - FORMATION.md",
+    "06-Modèle/Template prise de note.md",
+    "Comment calculer mon nombre de calorie.md",
+    "06-Modèle",
+    "01-Inbox/Erreur en gestion de son temps.md",
+    "desktop.ini",
+    "05-Zettelkasten/Excel VBA Quelques bases.md",
+    "00-Index/INDEX - FINANCE.md",
+    "03-Domaine de connaissance/MOC -LA FINANCE.md",
+    "03-Domaine de connaissance/MOC - FORMATION DATA.md",
+    "03-Domaine de connaissance/MOC - BIG DATA.md",
+    "05-Zettelkasten/Tradingview analyse - indicateur.md",
+    "05-Zettelkasten/Comment faire une analyse technique.md",
+    "05-Zettelkasten/Investissement ETF.md",
+    "05-Zettelkasten",
+    "04-Reference",
+    "03-Domaine de connaissance",
+    "02-Notes de formation",
+    "01-Inbox",
+    "00-Index",
+    "Répartition de la consommation de la donnée.jpg",
+    "Mes documents/Cycle de vie d'un produit.jpg",
+    "Mes documents/Les données personnelles.jpg",
+    "Mes documents/Evolution de la puissance de calcul, stockage et consommation.jpg",
+    "Mes documents/Les technologies dans le temps.jpg",
+    "Mes documents/_resources/Mindset.resources/Mindset-Hour-par-Franck-Rocca---Propulser.pdf",
+    "Mes documents/_resources/Mindset.resources",
+    "Mes documents/_resources/Tracker_ETF.resources/_Meilleur-ETF-_C3_A9mergent-PEA-Amundi-MSCI-Emergi.png",
+    "Mes documents/_resources/Tracker_ETF.resources/_Meilleur-ETF-World-PEA-Amundi-MSCI-World-CW8_6654.png",
+    "Mes documents/_resources/Tracker_ETF.resources/_Meilleur-ETF-SP-500-PEA-Amundi-SP500-500_81776867.png",
+    "Mes documents/_resources/Tracker_ETF.resources/_Meilleur-ETF-small-caps-PEA-SPDR-MSCI-Europe-Smal.png",
+    "Mes documents/_resources/Tracker_ETF.resources/_Meilleur-ETF-Japon-PEA-Amundi-Japan-Topix-PTPXE_8.png",
+    "Sans titre 2.canvas",
+    "Sans titre.canvas",
+    "Sans titre 1.canvas"
+  ]
+}
