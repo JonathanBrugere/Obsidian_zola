@@ -1,6 +1,6 @@
 [build]
-# command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/JonathanBrugere/Obsidian_zola __site && chmod +x __site/run.sh"
-command = "rm -rf __obsidian __site && mkdir __obsidian && find . -maxdepth 1 -mindepth 1 ! -name '__obsidian' ! -name '__site' -exec mv {} __obsidian/ \\; && git clone https://github.com/JonathanBrugere/Obsidian_zola __site && chmod +x __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/JonathanBrugere/Obsidian_zola __site && chmod +x __site/run.sh"
+#command = "rm -rf __obsidian __site && mkdir __obsidian && find . -maxdepth 1 -mindepth 1 ! -name '__obsidian' ! -name '__site' -exec mv {} __obsidian/ \\; && git clone https://github.com/JonathanBrugere/Obsidian_zola __site && chmod +x __site/run.sh"
 publish = "public"
 
 [build.environment]
