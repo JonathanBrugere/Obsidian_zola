@@ -1,7 +1,8 @@
 #!/bin/bash
 
 pip install python-slugify
-
+echo "Checking Zola version..."
+zola --version
 # Avoid copying over netlify.toml (will ebe exposed to public API)
 echo "netlify.toml" >>__obsidian/.gitignore
 
@@ -22,3 +23,11 @@ python __site/convert.py
 
 # Build Zola site
 zola --root __site/build build --output-dir public
+
+# Check if the public directory was generated
+if [ -d "public" ]; then
+  echo "Public directory generated successfully"
+else
+  echo "Failed to generate public directory"
+  ls -la __site/build
+fi
